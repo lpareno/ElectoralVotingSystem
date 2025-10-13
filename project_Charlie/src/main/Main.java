@@ -1,4 +1,4 @@
-package project_Charlie;
+package main;
 
 public class Main {
 
