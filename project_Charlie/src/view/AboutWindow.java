@@ -66,7 +66,11 @@ public class AboutWindow extends JFrame {
 	    
 	    return p;
 	}
+<<<<<<< HEAD
 	// wee woo
+=======
+	
+>>>>>>> refs/remotes/origin/master
 	// USE TO TEST THIS SPECIFIC FILE
 
 	/*public static void main(String[] args) {
