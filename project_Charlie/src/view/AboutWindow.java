@@ -66,7 +66,7 @@ public class AboutWindow extends JFrame {
 	    
 	    return p;
 	}
-	
+	// wee woo
 	// USE TO TEST THIS SPECIFIC FILE
 
 	/*public static void main(String[] args) {
